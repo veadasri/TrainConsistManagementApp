@@ -1,11 +1,9 @@
 import java.util.LinkedHashSet;
-
 public class TrainConsistManagementApp {
     public static void main(String[] args) {
 
         // Create LinkedHashSet for train formation
         LinkedHashSet<String> train = new LinkedHashSet<>();
-
         // Add bogies
         train.add("Engine");
         train.add("Sleeper");
