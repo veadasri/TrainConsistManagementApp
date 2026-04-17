@@ -1,7 +1,7 @@
 package main;
 import java.util.*;
 
-public class UseCase14TrainConsisntMgmt {
+public class UseCase13TrainConsisntMgmt {
 
     static class InvalidCapacityException extends Exception {
         public InvalidCapacityException(String message) {
