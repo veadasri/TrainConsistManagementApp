@@ -2,7 +2,7 @@ package main;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class UseCase9TrainConsisntMgmt {
+public class UseCase10TrainConsisntMgmt{
 
     static class Bogie {
         String name;
