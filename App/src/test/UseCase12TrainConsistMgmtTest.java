@@ -1,11 +1,15 @@
-package test;
 
+package test;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
-import java.util.*;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.stream.Collectors;
 
-public class UC8FilterPassengerBogiesUsingStreams {
+import static org.junit.jupiter.api.Assertions.*;
+
+public class UseCase12TrainConsistMgmtTest {
 
     static class Bogie {
         String name;
