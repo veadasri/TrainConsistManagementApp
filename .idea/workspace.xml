@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f88940b4-d997-4352-aac4-60f4d88f8e01" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/App/src/main/UseCase10TrainConsisntMgmt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/src/test/UseCase10TrainConsistMgmtTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/TrainConsistManagementApp.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" beforeDir="false" />
